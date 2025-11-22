@@ -10,7 +10,7 @@ This project is built using **React (Frontend)**, **Node.js + Express (Backend)*
 ✔ Search buses by route & date  
 ✔ Seat selection in UI (interactive grid)  
 ✔ Real-time seat availability  
-✔ Razorpay payment integration  
+✔ Googlepay payment integration  
 ✔ Booking history for users  
 ✔ Admin – Add/Update/Delete bus details  
 
@@ -20,10 +20,10 @@ This project is built using **React (Frontend)**, **Node.js + Express (Backend)*
 
 | Layer | Technology |
 |-------|------------|
-| Frontend | React, HTML, CSS  |
+| Frontend | React, HTML, CSS |
 | Backend | Node.js, Express.js |
 | Database | MySQL |
 | Auth | JWT |
-| Payment | Razorpay |
+| Payment | GOOGLE PAY |
 
-## 📂 Project Structure
+-
