@@ -20,12 +20,10 @@ This project is built using **React (Frontend)**, **Node.js + Express (Backend)*
 
 | Layer | Technology |
 |-------|------------|
-| Frontend | React, HTML, CSS, Tailwind |
+| Frontend | React, HTML, CSS  |
 | Backend | Node.js, Express.js |
 | Database | MySQL |
 | Auth | JWT |
 | Payment | Razorpay |
-
----
 
 ## 📂 Project Structure
